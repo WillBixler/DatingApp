@@ -108,7 +108,7 @@
     "Country": "Uganda",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/male/85.jpg",
+        "Url": "https://randomuser.me/api/portraits/men/85.jpg",
         "IsMain": true
       }
     ]
@@ -127,7 +127,7 @@
     "Country": "Ethiopia",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/male/8.jpg",
+        "Url": "https://randomuser.me/api/portraits/men/8.jpg",
         "IsMain": true
       }
     ]
@@ -146,7 +146,7 @@
     "Country": "Belgium",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/male/70.jpg",
+        "Url": "https://randomuser.me/api/portraits/men/70.jpg",
         "IsMain": true
       }
     ]
@@ -165,7 +165,7 @@
     "Country": "Kuwait",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/male/88.jpg",
+        "Url": "https://randomuser.me/api/portraits/men/88.jpg",
         "IsMain": true
       }
     ]
@@ -184,7 +184,7 @@
     "Country": "New Zealand",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/male/45.jpg",
+        "Url": "https://randomuser.me/api/portraits/men/45.jpg",
         "IsMain": true
       }
     ]
